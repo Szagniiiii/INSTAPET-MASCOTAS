@@ -1,0 +1,36 @@
+body{
+       background-image: url(perroygato.jpg);
+    }
+ h1 {
+       font-size: 93px;
+       color: rgb(155, 15, 15);
+       font-family:'Gill Sans MT';
+       text-align: center;
+       background-color: antiquewhite;
+       margin: 35px 500px;
+       border-radius: 35px;
+       border-style: solid;
+
+     }    
+ h2{
+      font-size: 45px;
+      color: rgb(155, 15, 15);
+      font-family: 'Franklin Gothic Medium';
+      text-align: center;
+      background-color: antiquewhite;
+      margin: 50px 50px;
+      border-radius:35px ;
+      border-style: solid;
+    }
+    label{
+        font-size: 45px;
+        color: rgb(43, 3, 3);
+        margin: 25px;
+        font-family: 'Franklin Gothic Medium';
+    }
+    .span1{
+        background-color: bisque; 
+        margin: 40px;
+        border-radius: 35px;
+        border-style: solid;
+    }
